@@ -7,7 +7,7 @@ package hellotogit;
 
 /**
  *
- * @author Anup G
+ * @author Anup 
  */
 public class HelloToGit {
 
